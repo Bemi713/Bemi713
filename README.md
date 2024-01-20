@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bemi713
-- 👀 I’m software developer in search of my first role.
-- 🌱 I’m currently addind more to my  full stack web development tool box.
-- 💞️ I’m looking to collaborate on anything that makes individuals lives easier.
+- 👀 I’m a software developer in search of my first role.
+- 🌱 I’m currently adding more to my  full stack web development toolbox.
+- 💞️ I’m looking to collaborate on anything that makes individuals' lives easier.
 - 📫 How to reach me at Bemi713@gmail.com.
 
 <!---
